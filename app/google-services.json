@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755571580575",
+    "firebase_url": "https://youth-connect-62046-default-rtdb.firebaseio.com",
+    "project_id": "youth-connect-62046",
+    "storage_bucket": "youth-connect-62046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755571580575:android:37004ea16f1bfa188c0caa",
+        "android_client_info": {
+          "package_name": "com.example.youthconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755571580575-ot17hsoguvqtcj8cq5j23qm6elnlpvnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGrDzkS1aZNFYmedHiRClfFnUhWRZRtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755571580575-ot17hsoguvqtcj8cq5j23qm6elnlpvnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

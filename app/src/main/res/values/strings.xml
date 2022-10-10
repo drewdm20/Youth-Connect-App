@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Youth Connect App</string>
+    <string name="admin">Admin</string>
+    <string name="heading_add_event">Add new events and activities</string>
+    <string name="text_event_name">Enter the event name:</string>
+    <string name="hint_event_name">Event name</string>
+    <string name="text_activities">Enter the activities:</string>
+    <string name="hint_activity">Activities</string>
+    <string name="btn_addEvent_text">Add events and activities</string>
+    <string name="text_username">Enter the username:</string>
+    <string name="text_userType">Enter the user type:</string>
+    <string name="text_name">Enter your name:</string>
+    <string name="text_surname">Enter your surname:</string>
+    <string name="text_password">Enter your password:</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_ID">Event ID</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="hint_admin">Admin status</string>
+    <string name="btn_updateEvent_text">Update events and activities</string>
+    <string name="btn_deleteEvent_text">Delete events and activities</string>
+    <string name="btn_modify_user">Update admin status</string>
+    <string name="heading_update_event">Update events and activities</string>
+    <string name="heading_delete_event">Delete events and activities</string>
+    <string name="heading_modify_user">Change admin status</string>
+    <string name="text_eventID">Enter the event ID</string>
+</resources>
